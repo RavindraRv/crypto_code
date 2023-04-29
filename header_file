@@ -12,7 +12,6 @@
 
 
 
-
 struct ctx_aes
 {
   uint8_t RKey[keyExp];
